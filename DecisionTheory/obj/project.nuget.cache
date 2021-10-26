@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "OhOiET1cWjsxvr68bepkik7trkvs1TeFl0t5AzFWOOUOCQPsSW4TPJ5o6cov15IyP0zlb7BTSVOIyTTf+0VceA==",
+  "dgSpecHash": "5Bs2QJsEoqMj7IEQegCeFpraz6K3F0CfjGgtG2bevYT6qIyRwSrLpfFJ4287axUoH3VN8LMJ3zTKa18iCrOSrg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Alexandr Safiyulin\\source\\repos\\DecisionTheoryUI\\DecisionTheory\\DecisionTheory.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexandr Safiyulin\\.nuget\\packages\\fody\\6.5.1\\fody.6.5.1.nupkg.sha512",
+    "C:\\Users\\Alexandr Safiyulin\\.nuget\\packages\\jetbrains.annotations\\2021.3.0-eap4\\jetbrains.annotations.2021.3.0-eap4.nupkg.sha512",
+    "C:\\Users\\Alexandr Safiyulin\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.37\\microsoft.xaml.behaviors.wpf.1.1.37.nupkg.sha512",
+    "C:\\Users\\Alexandr Safiyulin\\.nuget\\packages\\propertychanged.fody\\3.4.0\\propertychanged.fody.3.4.0.nupkg.sha512"
+  ],
   "logs": []
 }
